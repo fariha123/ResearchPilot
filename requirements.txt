@@ -1,0 +1,10 @@
+streamlit>=1.60
+pandas>=2.1
+plotly>=5.24
+mcp>=2.0,<3
+httpx2>=2.0,<3
+openai>=1.50
+requests>=2.32
+python-dotenv>=1.0
+pymupdf>=1.24.3
+beautifulsoup4>=4.12
